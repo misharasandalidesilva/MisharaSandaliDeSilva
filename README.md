@@ -1,25 +1,19 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=UI/UX%20Designer%20%7C%20Developer&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Crafting%20Digital%20Experiences%20That%20Matter&descAlignY=51&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:667EEA,50:764BA2,100:F093FB&height=300&section=header&text=UI/UX%20Designer&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Crafting%20Digital%20Experiences%20•%20IJSE%20Student%20•%20Sri%20Lanka%20🇱🇰&descAlignY=60&descSize=18" width="100%"/>
 </div>
-
 <br/>
-
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=Hi+%F0%9F%91%8B+I'm+[Your+Name];UI%2FUX+Designer+%26+Frontend+Dev;Transforming+Ideas+into+Pixels;IJSE+Student+%F0%9F%8E%93" alt="Typing SVG" />
   </a>
 </div>
-
 <br/>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-UI%2FUX%20Design-667EEA?style=for-the-badge&labelColor=764BA2" />
   <img src="https://img.shields.io/badge/Location-Sri%20Lanka%20🇱🇰-00C853?style=for-the-badge&labelColor=00796B" />
   <img src="https://img.shields.io/badge/Education-IJSE-FF6F00?style=for-the-badge&labelColor=E65100" />
   <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-00E676?style=for-the-badge&labelColor=00C853" />
 </p>
-
----
 
 <img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding">
 
