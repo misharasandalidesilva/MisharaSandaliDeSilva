@@ -118,29 +118,38 @@ const mishara = {
 
 ---
 
-🎯 Design Philosophy
+## 🎯 Design Philosophy
+
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-💭 What Drives My Work
-<table>
-<tr>
-<td align="center" width="50%">
-<img src="https://img.icons8.com/clouds/200/000000/design.png" alt="Design"/>
-<h3>✨ Beautiful & Functional</h3>
-<p><i>"Design is not just what it looks like and feels like.<br/>Design is how it works."</i></p>
-<p><b>- Steve Jobs</b></p>
-</td>
-<td align="center" width="50%">
-<img src="https://img.icons8.com/clouds/200/000000/user-experience.png" alt="UX"/>
-<h3>🎨 User-First Approach</h3>
-<p><i>"Good design is obvious.<br/>Great design is transparent."</i></p>
-<p><b>- Joe Sparano</b></p>
-</td>
-</tr>
+    
+github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Design%20is%20not%20just%20what%20it%20looks%20like%20and%20feels%20like.%20Design%20is%20how%20it%20works.&author=Steve%20Jobs" width="600"/>
+</div>
+<br/>
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/96/user-male-circle.png" width="60"/>
+      <br/><b>User-Centered</b>
+      <br/><sub>Always prioritize user needs</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/96/000000/simplicity.png" width="60"/>
+      <br/><b>Simple & Intuitive</b>
+      <br/><sub>Complexity made simple</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/96/000000/innovation.png" width="60"/>
+      <br/><b>Innovative</b>
+      <br/><sub>Push creative boundaries</sub>
+    </td>
+  </tr>
 </table>
+</div>
 ```
 
 ### My Approach
+
+<div align="center">
 
 🎨 **User-Centered Design** • ⚡ **Performance** • ♿ **Accessibility** • 📱 **Responsive**
 
