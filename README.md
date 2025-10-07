@@ -1,199 +1,255 @@
 <div align="center">
 
-# 👋 Hello, I'm Mishara Sanadali
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Mishara%20Sandali&fontSize=80&fontAlignY=35&desc=UI/UX%20Designer%20%7C%20Frontend%20Developer&descAlignY=55&descSize=25&animation=twinkling)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=100&lines=UI%2FUX+Designer+%F0%9F%8E%A8;Frontend+Developer+%F0%9F%92%BB;Crafting+Digital+Experiences+%E2%9C%A8" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=FF6EC7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;UI%2FUX+Designer+%F0%9F%8E%A8;Frontend+Developer+%F0%9F%92%BB;IJSE+Undergraduate+%F0%9F%8E%93;Creative+Problem+Solver+%F0%9F%92%A1" alt="Typing SVG" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)]()
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)]()
-[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)]()
+<img src="https://komarev.com/ghpvc/?username=misharasandalidesilva&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
 
-<img src="https://komarev.com/ghpvc/?username=misharasanadali&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile views" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/mishara%20de%20silva)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:misharasandali@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]()
 
 </div>
 
 ---
 
-## 🎯 About Me
+## 🎨 About Me
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ```javascript
 const mishara = {
-    role: "UI/UX Designer & Frontend Developer",
-    location: "Colombo, Sri Lanka 🇱🇰",
+    name: "Mishara Sandali",
+    pronouns: "She/Her",
+    location: "Sri Lanka 🇱🇰",
     education: {
         institute: "IJSE - Institute of Software Engineering",
-        status: "Undergraduate"
+        status: "Undergraduate Student 🎓"
     },
-    specialties: [
-        "UI/UX Design",
-        "Frontend Development",
-        "Responsive Design",
-        "Design Systems"
+    currentFocus: [
+        "UI/UX Design 🎨",
+        "Frontend Development 💻",
+        "User Experience Research 🔍",
+        "Design Systems 🎯"
     ],
-    currentMission: "Building beautiful, user-centric digital products",
-    workflow: "Design → Prototype → Code → Ship 🚀",
-    lifePhilosophy: "Design with empathy, code with passion"
+    passions: [
+        "Creating beautiful interfaces",
+        "Solving design problems",
+        "Learning new technologies",
+        "Building user-centric products"
+    ],
+    funFact: "I turn coffee ☕ into code and designs! ✨"
 };
 ```
 
+<br clear="right"/>
+
+- 🎓 Currently studying at **IJSE - Institute of Software Engineering**
+- 🎨 Passionate about **UI/UX Design** and **Frontend Development**
+- 💡 Love combining **creativity** with **functionality**
+- 🌱 Always learning and exploring new design trends
+- 🎯 Goal: Create impactful digital experiences
+- 📫 Reach me at **misharasandali@gmail.com**
+
+---
+
+## 🏆 GitHub Trophies
+
 <div align="center">
 
-### 🎨 Design Meets Code
-
-I bridge the gap between **design and development**, creating interfaces that are not only visually stunning but also highly functional and user-friendly. My passion lies in transforming complex problems into simple, elegant solutions.
+[![trophy](https://github-profile-trophy.vercel.app/?username=misharasandalidesilva&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 💼 Tech Stack
+## 💻 Tech Stack & Tools
 
 <div align="center">
 
 ### 🎨 Design Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=Adobe-After-Effects&logoColor=white)
-![InVision](https://img.shields.io/badge/InVision-FF3366?style=for-the-badge&logo=invision&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ### 💻 Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### 🛠️ Tools & Workflow
+### 🔧 Backend & Database
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🛠️ Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=misharasanadali&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9&ring_color=6366F1" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misharasanadali&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=misharasandalidesilva&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=FF6EC7&text_color=c9d1d9" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=misharasandalidesilva&theme=radical&hide_border=true&background=0D1117&ring=FF6EC7&fire=FF6EC7&currStreakLabel=FF6EC7" alt="GitHub Streak"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=misharasanadali&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=misharasandalidesilva&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=c9d1d9&layout=compact&langs_count=8" alt="Top Languages"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=misharasanadali&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=c9d1d9" alt="Contribution Graph" />
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=misharasandalidesilva&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF6EC7&line=FF6EC7&point=FFFFFF)
+
 </div>
 
 ---
 
-## 🎨 Design Process
+## 🎯 Design Philosophy
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║     "Design is not just what it looks like          ║
+║      and feels like. Design is how it works."       ║
+║                                                      ║
+║                          - Steve Jobs               ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
+
+### My Approach
+
+🎨 **User-Centered Design** • ⚡ **Performance** • ♿ **Accessibility** • 📱 **Responsive**
+
+</div>
+
+---
+
+## 🌟 Current Journey
 
 ```mermaid
-%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#6366F1'}}}%%
+%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#FF6EC7'}}}%%
 graph LR
-    A[🔍 Research] --> B[💡 Ideate]
-    B --> C[✏️ Wireframe]
-    C --> D[🎨 Design]
-    D --> E[🔄 Prototype]
-    E --> F[💻 Develop]
-    F --> G[🧪 Test]
-    G --> H[🚀 Deploy]
-    H --> I[📊 Iterate]
-    I --> A
+    A[🎓 Learning] --> B[🎨 Designing]
+    B --> C[💻 Developing]
+    C --> D[🚀 Deploying]
+    D --> E[📈 Growing]
+    E --> A
     
-    style A fill:#6366F1,stroke:#4F46E5,color:#fff
-    style B fill:#8B5CF6,stroke:#7C3AED,color:#fff
-    style C fill:#A855F7,stroke:#9333EA,color:#fff
-    style D fill:#C084FC,stroke:#A855F7,color:#fff
-    style E fill:#6366F1,stroke:#4F46E5,color:#fff
-    style F fill:#8B5CF6,stroke:#7C3AED,color:#fff
-    style G fill:#A855F7,stroke:#9333EA,color:#fff
-    style H fill:#C084FC,stroke:#A855F7,color:#fff
-    style I fill:#6366F1,stroke:#4F46E5,color:#fff
+    style A fill:#FF6EC7,stroke:#E91E63,color:#fff
+    style B fill:#9C27B0,stroke:#7B1FA2,color:#fff
+    style C fill:#673AB7,stroke:#512DA8,color:#fff
+    style D fill:#3F51B5,stroke:#303F9F,color:#fff
+    style E fill:#2196F3,stroke:#1976D2,color:#fff
 ```
 
 ---
 
-## 🏆 Achievements & Highlights
+## 🎨 Design Process Visualization
 
 <div align="center">
 
-| 🎯 **Focus Areas** | 📈 **Progress** |
-|:------------------:|:---------------:|
-| UI/UX Projects | ![](https://progress-bar.dev/85/?title=Completed&width=200&color=6366f1) |
-| Frontend Development | ![](https://progress-bar.dev/80/?title=Mastery&width=200&color=8b5cf6) |
-| Design Systems | ![](https://progress-bar.dev/75/?title=Building&width=200&color=a855f7) |
-| Responsive Design | ![](https://progress-bar.dev/90/?title=Expert&width=200&color=c084fc) |
+| Phase | Focus | Tools |
+|:-----:|:-----:|:-----:|
+| 🔍 **Research** | User needs & pain points | Surveys, Interviews |
+| 💡 **Ideate** | Brainstorming solutions | Miro, FigJam |
+| ✏️ **Wireframe** | Low-fidelity layouts | Figma, Adobe XD |
+| 🎨 **Design** | High-fidelity mockups | Figma, Photoshop |
+| 🔄 **Prototype** | Interactive demos | Figma, InVision |
+| 💻 **Develop** | Code implementation | HTML, CSS, JS |
+| 🧪 **Test** | Usability testing | User feedback |
+| 🚀 **Launch** | Product deployment | GitHub, Vercel |
 
 </div>
 
 ---
 
-## 💡 Design Philosophy
+## 🎯 Skills Progress
 
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║   "Good design is obvious. Great design is transparent."  ║
-║                                                           ║
-║           - Joe Sparano                                   ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
-```
-
-### Core Principles
-
-🎯 **User-Centered** • 🎨 **Aesthetically Pleasing** • ⚡ **Performance-Focused**
-
-♿ **Accessible** • 📱 **Responsive** • 🔄 **Iterative**
+| Skill | Proficiency |
+|:------|:----------:|
+| **UI/UX Design** | ![](https://progress-bar.dev/85/?title=Expert&width=300&color=FF6EC7) |
+| **HTML & CSS** | ![](https://progress-bar.dev/90/?title=Advanced&width=300&color=9C27B0) |
+| **JavaScript** | ![](https://progress-bar.dev/75/?title=Intermediate&width=300&color=673AB7) |
+| **React** | ![](https://progress-bar.dev/70/?title=Learning&width=300&color=3F51B5) |
+| **Java** | ![](https://progress-bar.dev/80/?title=Proficient&width=300&color=2196F3) |
+| **Figma** | ![](https://progress-bar.dev/95/?title=Expert&width=300&color=FF6EC7) |
 
 </div>
 
 ---
 
-## 🌟 What I'm Up To
+## 💼 What I'm Working On
 
 <div align="center">
 
-| 🔭 Currently Working On | 🌱 Currently Learning | 👯 Looking to Collaborate On |
-|:-----------------------:|:---------------------:|:---------------------------:|
-| Building design systems & component libraries | Advanced animation techniques & Framer Motion | Innovative UI/UX projects & open-source |
-| Creating responsive web applications | React performance optimization | Creative web experiments |
-| Designing user-centered interfaces | Design thinking methodologies | Frontend challenges |
+| 🔭 Current Projects | 🌱 Learning | 👯 Open For |
+|:------------------:|:-----------:|:-----------:|
+| Building design systems | Advanced React patterns | Collaboration on UI/UX projects |
+| Creating responsive websites | Animation techniques | Open source contributions |
+| Developing web applications | TypeScript | Freelance opportunities |
 
 </div>
 
 ---
 
-## 📫 Let's Connect & Collaborate
+## 🤝 Let's Connect!
 
 <div align="center">
 
-I'm always excited to connect with fellow designers, developers, and creative minds! Whether you want to discuss design trends, collaborate on a project, or just chat about tech, feel free to reach out.
+I'm always excited to connect with fellow designers, developers, and creative minds! 
+Whether it's about a project collaboration, design feedback, or just a friendly chat about tech - feel free to reach out! 💬
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/yourprofile)
-[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
+### 📬 Contact Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:misharasandali@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/mishara%20de%20silva)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)]()
+[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)]()
+
+</div>
+
+---
+
+## 📈 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/misharasandalidesilva/misharasandalidesilva/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 💖 Support My Work
+
+<div align="center">
+
+If you like my work, consider giving a ⭐ to my repositories!
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)]()
 
 </div>
 
@@ -201,18 +257,12 @@ I'm always excited to connect with fellow designers, developers, and creative mi
 
 <div align="center">
 
-### 💜 Thanks for stopping by!
+### ✨ "Design is thinking made visual" ✨
 
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20,22&height=120&section=footer&text=Let's%20Create%20Something%20Amazing!&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=75)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=75)
 
-**⭐ Star my repositories if you find them interesting!**
+![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20by%20Mishara%20Sandali-ff69b4?style=for-the-badge)
 
-<img src="https://github.com/misharasanadali/misharasanadali/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
----
-
-![Made with ❤️ by Mishara Sanadali](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red?style=for-the-badge)
-![Open Source](https://img.shields.io/badge/Open%20Source-%F0%9F%92%9A-success?style=for-the-badge)
-![Design First](https://img.shields.io/badge/Design%20First-%F0%9F%8E%A8-blueviolet?style=for-the-badge)
+**⭐ Star my repos • 🍴 Fork them • 📬 Get in touch!**
 
 </div>
