@@ -1,18 +1,14 @@
 <div align="center">
-<!-- Animated Header -->
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Mishara%20Sandali&fontSize=70&color=0:FF6EC7,50:A855F7,100:6366F1&stroke=FFFFFF&strokeWidth=2&fontColor=FFFFFF&fontAlignY=40&desc=Designing%20Dreams%20%7C%20Coding%20Reality&descAlignY=60&descSize=20&animation=fadeIn"/>
-<!-- Profile Banner -->
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&multiline=true&width=800&height=150&lines=%F0%9F%91%8B+Welcome+to+My+Creative+Space!;%F0%9F%8E%A8+UI%2FUX+Designer+%7C+%F0%9F%92%BB+Frontend+Developer;%E2%9C%A8+Turning+Ideas+into+Beautiful+Experiences" alt="Typing SVG" />
-<!-- Animated Badges -->
+
 <p>
 <img src="https://komarev.com/ghpvc/?username=misharasandalidesilva&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile views" />
 <img src="https://img.shields.io/badge/Status-Available%20for%20Work-success?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status"/>
 <img src="https://img.shields.io/badge/Focus-UI%2FUX%20%26%20Frontend-blueviolet?style=for-the-badge&logo=target&logoColor=white" alt="Focus"/>
 </p>
-Show Image
-Show Image
-Show Image
-Show Image
 </div>
 
 ---
