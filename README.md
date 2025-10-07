@@ -1,16 +1,18 @@
 <div align="center">
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Mishara%20Sandali&fontSize=80&fontAlignY=35&desc=UI/UX%20Designer%20%7C%20Frontend%20Developer&descAlignY=55&descSize=25&animation=twinkling)
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=FF6EC7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;UI%2FUX+Designer+%F0%9F%8E%A8;Frontend+Developer+%F0%9F%92%BB;IJSE+Undergraduate+%F0%9F%8E%93;Creative+Problem+Solver+%F0%9F%92%A1" alt="Typing SVG" />
-
-<img src="https://komarev.com/ghpvc/?username=misharasandalidesilva&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/mishara%20de%20silva)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:misharasandali@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]()
-
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Mishara%20Sandali&fontSize=70&color=0:FF6EC7,50:A855F7,100:6366F1&stroke=FFFFFF&strokeWidth=2&fontColor=FFFFFF&fontAlignY=40&desc=Designing%20Dreams%20%7C%20Coding%20Reality&descAlignY=60&descSize=20&animation=fadeIn"/>
+<!-- Profile Banner -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&multiline=true&width=800&height=150&lines=%F0%9F%91%8B+Welcome+to+My+Creative+Space!;%F0%9F%8E%A8+UI%2FUX+Designer+%7C+%F0%9F%92%BB+Frontend+Developer;%E2%9C%A8+Turning+Ideas+into+Beautiful+Experiences" alt="Typing SVG" />
+<!-- Animated Badges -->
+<p>
+<img src="https://komarev.com/ghpvc/?username=misharasandalidesilva&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/badge/Status-Available%20for%20Work-success?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status"/>
+<img src="https://img.shields.io/badge/Focus-UI%2FUX%20%26%20Frontend-blueviolet?style=for-the-badge&logo=target&logoColor=white" alt="Focus"/>
+</p>
+Show Image
+Show Image
+Show Image
+Show Image
 </div>
 
 ---
@@ -199,20 +201,6 @@ graph LR
 
 ---
 
-## 💼 What I'm Working On
-
-<div align="center">
-
-| 🔭 Current Projects | 🌱 Learning | 👯 Open For |
-|:------------------:|:-----------:|:-----------:|
-| Building design systems | Advanced React patterns | Collaboration on UI/UX projects |
-| Creating responsive websites | Animation techniques | Open source contributions |
-| Developing web applications | TypeScript | Freelance opportunities |
-
-</div>
-
----
-
 ## 🤝 Let's Connect!
 
 <div align="center">
@@ -226,18 +214,6 @@ Whether it's about a project collaboration, design feedback, or just a friendly 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/mishara%20de%20silva)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)]()
-[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)]()
-
-</div>
-
----
-
-## 📈 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/misharasandalidesilva/misharasandalidesilva/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
