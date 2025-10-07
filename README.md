@@ -128,40 +128,6 @@ const mishara = {
 
 ---
 
-## My Approach
-
-<div align="center">
-
-🎨 **User-Centered Design** • ⚡ **Performance** • ♿ **Accessibility** • 📱 **Responsive**
-
-</div>
-
----
-
-## 🌟 Current Journey
-
-<div align="center">
-```mermaid
-%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#FF6EC7'}}}%%
-graph LR
-    A[🎓 Learning] --> B[🎨 Designing]
-    B --> C[💻 Developing]
-    C --> D[🚀 Deploying]
-    D --> E[📈 Growing]
-    E --> A
-    
-</div>
-
-<div align="center">
-    style A fill:#FF6EC7,stroke:#E91E63,color:#fff
-    style B fill:#9C27B0,stroke:#7B1FA2,color:#fff
-    style C fill:#673AB7,stroke:#512DA8,color:#fff
-    style D fill:#3F51B5,stroke:#303F9F,color:#fff
-    style E fill:#2196F3,stroke:#1976D2,color:#fff
-</div>
-
----
-
 ## 🎨 Design Process Visualization
 
 <div align="center">
