@@ -118,31 +118,15 @@ const mishara = {
 
 ---
 
-<h2>💭 Design Philosophy</h2>
+## 🎯 Design Philosophy
+
 <div align="center">
+    
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Design%20is%20not%20just%20what%20it%20looks%20like%20and%20feels%20like.%20Design%20is%20how%20it%20works.&author=Steve%20Jobs" width="600"/>
+    
 </div>
-<br/>
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/user-male-circle.png" width="60"/>
-      <br/><b>User-Centered</b>
-      <br/><sub>Always prioritize user needs</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/000000/simplicity.png" width="60"/>
-      <br/><b>Simple & Intuitive</b>
-      <br/><sub>Complexity made simple</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/000000/innovation.png" width="60"/>
-      <br/><b>Innovative</b>
-      <br/><sub>Push creative boundaries</sub>
-    </td>
-  </tr>
-</table>
-```
+
+---
 
 ## My Approach
 
@@ -156,6 +140,7 @@ const mishara = {
 
 ## 🌟 Current Journey
 
+<div align="center">
 ```mermaid
 %%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#FF6EC7'}}}%%
 graph LR
@@ -165,12 +150,15 @@ graph LR
     D --> E[📈 Growing]
     E --> A
     
+</div>
+
+<div align="center">
     style A fill:#FF6EC7,stroke:#E91E63,color:#fff
     style B fill:#9C27B0,stroke:#7B1FA2,color:#fff
     style C fill:#673AB7,stroke:#512DA8,color:#fff
     style D fill:#3F51B5,stroke:#303F9F,color:#fff
     style E fill:#2196F3,stroke:#1976D2,color:#fff
-```
+</div>
 
 ---
 
