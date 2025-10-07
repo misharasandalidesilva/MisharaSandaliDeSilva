@@ -121,33 +121,20 @@ const mishara = {
 ## 🎯 Design Philosophy
 
 <div align="center">
-    
-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Design%20is%20not%20just%20what%20it%20looks%20like%20and%20feels%20like.%20Design%20is%20how%20it%20works.&author=Steve%20Jobs" width="600"/>
+
+"Good design is obvious. Great design is transparent." — Joe Sparano
+
+
+"Simplicity is the ultimate sophistication." — Leonardo da Vinci
+
+
+"Design is thinking made visual." — Saul Bass
+
 </div>
-<br/>
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/user-male-circle.png" width="60"/>
-      <br/><b>User-Centered</b>
-      <br/><sub>Always prioritize user needs</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/000000/simplicity.png" width="60"/>
-      <br/><b>Simple & Intuitive</b>
-      <br/><sub>Complexity made simple</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/000000/innovation.png" width="60"/>
-      <br/><b>Innovative</b>
-      <br/><sub>Push creative boundaries</sub>
-    </td>
-  </tr>
-</table>
-</div>
+
 ```
 
-### My Approach
+## My Approach
 
 <div align="center">
 
